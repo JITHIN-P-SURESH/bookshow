@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap');
+#heading{
+    display: flex;
+    font-size: 2.7rem;
+    font-family: 'Cinzel Decorative', cursive;
+    color: #b00981;
+    justify-content: center;
+}
+.carousel-item{
+    width: 100%;
+    border: 5px solid white;
+}
+.card-img-top{
+    height: 40vh;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: black;
+    border: 1px solid white;
+    font-weight: 600;
+}
+.card-title{
+    font-family: 'Courgette', cursive;
+    text-decoration: none;
+    font-size: 1.9rem;
+    font-weight: 600;
+    color: #b3640b;  
+}
+.card-title:hover{
+    color: #b00981 !important;
+}
+.card-text{
+    color: white;
+    font-size: 1.3rem;
+}
+.card-footer{
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+}
+  .movie{
+    display: flex;
+    color: white;
+    /* font-family: 'Cinzel Decorative', cursive; */
+    font-family: 'Mulish', sans-serif;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  @media(min-width:600px){
+    .movie{
+      font-size: calc(0.5vw + 1.3rem);
+    }
+  }
+  .movie:hover{
+    color: white;
+  }
+  .moviebox{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+  }
+  .button{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+  }
+  .btn{
+    color: white;
+    border-color: white;
+  }
+  .box{
+    display: flex;
+    justify-content: center;
+    font-family: 'Mulish', sans-serif;
+  }
+  @media(min-width:600px){
+    .box{
+      font-size: calc(0.1vw + 1.2rem);
+    }
+  }
+  .box1{
+    background: whitesmoke;
+    color: black;
+    height: 60px;
+    display: flex;
+    align-items: center;
+  }
+  .box2{
+    background: whitesmoke;
+    color: black;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .icon1{
+    font-size: 25px;
+    color: black;
+  }
+  .icon1 :hover{
+    color: #b8063e !important;
+  }
+  .icon{
+    font-size: 19px;
+    padding-left: 10px;
+    color: #fff;
+  }
+  .icon :hover{
+    color: #b8063e !important;
+  }
+  .foot{
+    text-align: center;
+    width: 100%;
+    background: black;
+  }
+  .footp{
+    font-family: 'Mulish', sans-serif;
+    text-align: center;
+    color: whitesmoke;
+  }
+  .overlay1{
+    background-size: cover;
+    min-height: 85vh;
+    background-repeat: no-repeat;
+    position: relative;
+  }
+  @media (max-width: 768px){
+    .overlay1{
+      min-height: 76vh;
+    }
+  };
+  .cont{
+
+  }
+  .cont{
+    color: white;
+    font-family: 'Mulish', sans-serif;
+    padding: 10px;
+  }
