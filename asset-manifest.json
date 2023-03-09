@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/bookshow/static/css/main.f0918b6b.css",
+    "main.js": "/bookshow/static/js/main.12fa09ca.js",
+    "static/media/1.jpg": "/bookshow/static/media/1.d1918e5ab40a5c10d740.jpg",
+    "static/media/3.jpg": "/bookshow/static/media/3.fad347c26024328ae0b6.jpg",
+    "static/media/c9.jpg": "/bookshow/static/media/c9.8dd1686180ed3be57c13.jpg",
+    "static/media/c14.jpg": "/bookshow/static/media/c14.5de69af4c06e13d96461.jpg",
+    "static/media/2.jpg": "/bookshow/static/media/2.8d00e772c51c0e6a801d.jpg",
+    "static/media/c7.jpg": "/bookshow/static/media/c7.f8932ef3e2e6f750c965.jpg",
+    "static/media/c12.jpg": "/bookshow/static/media/c12.0f4f5dc6ee17604fe5e8.jpg",
+    "static/media/c4.jpg": "/bookshow/static/media/c4.2759ce994ff938402c15.jpg",
+    "static/media/c15.jpg": "/bookshow/static/media/c15.4c4ddfbe974a938e7155.jpg",
+    "static/media/c3.jpg": "/bookshow/static/media/c3.c58efdea83bbebc1d076.jpg",
+    "static/media/c13.jpg": "/bookshow/static/media/c13.7a2ceeb53846048eb811.jpg",
+    "static/media/c8.jpg": "/bookshow/static/media/c8.4bd94f6725a974943b68.jpg",
+    "static/media/c2.jpg": "/bookshow/static/media/c2.6ef8ec9d40349467363d.jpg",
+    "static/media/c11.jpg": "/bookshow/static/media/c11.d9efdfe64a40a05be868.jpg",
+    "static/media/c5.jpg": "/bookshow/static/media/c5.bc8fd13f50b6910c6c04.jpg",
+    "static/media/c6.jpg": "/bookshow/static/media/c6.c2df72bc90fc3d29c436.jpg",
+    "static/media/c16.jpg": "/bookshow/static/media/c16.28dcc7911d43420992ea.jpg",
+    "static/media/img15.jpg": "/bookshow/static/media/img15.44d8f38fd71342d9e8b8.jpg",
+    "static/media/c10.jpg": "/bookshow/static/media/c10.d045870f5af3dd52b0c9.jpg",
+    "static/media/c1.jpg": "/bookshow/static/media/c1.fecce95c0461d3663eb4.jpg",
+    "index.html": "/bookshow/index.html",
+    "main.f0918b6b.css.map": "/bookshow/static/css/main.f0918b6b.css.map",
+    "main.12fa09ca.js.map": "/bookshow/static/js/main.12fa09ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0918b6b.css",
+    "static/js/main.12fa09ca.js"
+  ]
+}
